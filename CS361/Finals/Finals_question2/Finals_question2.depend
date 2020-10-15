@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575848526 source:z:\fall_2019\cs361\finals\finals_question2\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1575849432 source:z:\fall_2019\cs361\finals\finals_question2\box.cpp
+	<iostream>
+	<stdlib.h>
+	"box.h"
+
+1575849451 z:\fall_2019\cs361\finals\finals_question2\box.h
+	<iostream>
+	<stdlib.h>
+

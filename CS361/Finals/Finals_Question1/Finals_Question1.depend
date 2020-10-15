@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1575922481 source:z:\fall_2019\cs361\finals\finals_question1\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<queue>
+	<random>
+	<ctime>
+	"node.h"
+
+1575922202 z:\fall_2019\cs361\finals\finals_question1\node.h
+	<iostream>
+	<vector>
+	<queue>
+	<random>
+	<ctime>
+

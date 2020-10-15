@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575851196 source:z:\fall_2019\cs361\finals\finals_q3\main.cpp
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+
