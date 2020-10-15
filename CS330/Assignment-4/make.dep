@@ -1,0 +1,11 @@
+storage.o: storage.cpp Inventory.h ItemStack.h Item.h ItemFactory.h \
+ Armour.h Consumable.h
+Item.o: Item.cpp Item.h
+ItemFactory.o: ItemFactory.cpp ItemFactory.h Item.h Armour.h Consumable.h
+ItemStack.o: ItemStack.cpp ItemStack.h Item.h ItemFactory.h Armour.h \
+ Consumable.h
+Inventory.o: Inventory.cpp Inventory.h ItemStack.h Item.h ItemFactory.h \
+ Armour.h Consumable.h
+Armour.o: Armour.cpp Armour.h Item.h
+Consumable.o: Consumable.cpp Consumable.h Item.h
+utilities.o: utilities.cpp utilities.h

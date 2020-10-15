@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.odu.cs.cs330.items.TestConsumable" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-12T04:06:22" hostname="sirius.cs.odu.edu" time="0.016">
+  <properties/>
+  <testcase name="testClone" classname="edu.odu.cs.cs330.items.TestConsumable" time="0.005"/>
+  <testcase name="testCopyConstructor" classname="edu.odu.cs.cs330.items.TestConsumable" time="0.0"/>
+  <testcase name="testDefaultConstructor" classname="edu.odu.cs.cs330.items.TestConsumable" time="0.0"/>
+  <testcase name="testRead" classname="edu.odu.cs.cs330.items.TestConsumable" time="0.011"/>
+  <testcase name="testToString" classname="edu.odu.cs.cs330.items.TestConsumable" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
