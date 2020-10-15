@@ -1,0 +1,11 @@
+10
+Forks 1000 .20
+Spoons 215 .65
+TrashBags 15 1.60
+Napkins 5000 .20
+Cups 60 .95
+Plates 101 1.26
+Bowls 15 2.10
+Vincent 96 .55
+Straws 180 1.05
+Containers 280 1.32

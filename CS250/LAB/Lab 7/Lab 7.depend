@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1539725864 source:z:\cs 250\lab\lab 7\main.cpp
+	"studentData.h"
+
+1539725834 z:\cs 250\lab\lab 7\studentdata.h
+	<iostream>
+
+1539725810 source:z:\cs 250\lab\lab 7\studentdata.cpp
+	"studentData.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+

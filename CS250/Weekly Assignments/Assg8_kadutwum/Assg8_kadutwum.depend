@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542153938 source:z:\cs 250\weekly assignments\assg8_kadutwum\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

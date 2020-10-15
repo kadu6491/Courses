@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537909888 source:z:\cs 250\lab\lab 4a\main.cpp
+	<iostream>
+	<string>
+	"greet.h"
+
+1538067600 z:\cs 250\lab\lab 4a\greet.h
+	<string>
+

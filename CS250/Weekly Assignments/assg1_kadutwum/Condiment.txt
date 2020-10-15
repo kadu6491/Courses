@@ -1,0 +1,15 @@
+14
+Ketchup 20 01:16:2000 1.00
+Mustard 40 05:14:2006 4.20
+Relish 15 10:21:2015 5.50
+SoySauce 98 09:08:2011 2.70
+Mayonnaise 52 06:03:2013 1.60
+BBQSauce 11 11:10:2004 2.00
+HotSauce 70 12:06:2014 .95
+Salsa 700 06:12:2003 8.00
+Wasabi 15 07:18:2006 1.00
+OysterSauce 12 08:22:2007 2.60
+Horseradish 200 08:23:2015 1.95
+TarterSauce 90 06:25:2016 2.10
+FishSauce 33 04:23:2015 3.23
+BrownSauce 20 08:26:2014 2.00

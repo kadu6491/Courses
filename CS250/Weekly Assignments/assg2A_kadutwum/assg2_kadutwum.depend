@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537920399 source:z:\cs 250\assg2_kadutwum\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1538161285 source:z:\cs 250\assg2a_kadutwum\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+	<fstream>
+

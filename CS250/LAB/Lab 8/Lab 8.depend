@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540333077 source:z:\cs 250\lab\lab 8\skew.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	"arrayUtils.h"
+
+1540330325 z:\cs 250\lab\lab 8\arrayutils.h
+

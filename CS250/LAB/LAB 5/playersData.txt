@@ -1,0 +1,10 @@
+Bill Quarter_Back 70 0 8754 0 573
+Jackson Receiver 55 87 50 5490 574
+Grahm Running_Back 45 30 0 50 2800
+McCoy Full_Back 25 10 0 25 3762
+Daryl Quarter_Back 50 2 7560 0 450
+Santiago Left_Tackle 5 0 0 0 0
+Hanks Receiver 35 37 0 3590 876
+Johnson Running_Back 25 80 0 100 4000
+Miller Receiver 110 250 150 7867 2100
+Ruth Quarter_Back 85 0 12901 0 3249

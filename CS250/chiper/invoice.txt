@@ -1,0 +1,6 @@
+5
+Maple, Tree, 5
+Apple, Fruit Tree, 6
+Birch, Tree, 5
+Lilac, Shrub, 10
+Rhododendron, Shrub, 15

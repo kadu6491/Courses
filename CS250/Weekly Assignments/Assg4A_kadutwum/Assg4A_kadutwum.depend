@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540003839 source:z:\cs 250\weekly assignments\assg4a_kadutwum\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"inv.h"
+
+1539736386 z:\cs 250\weekly assignments\assg4a_kadutwum\inventrory.h
+	<string>
+
+1540003376 source:z:\cs 250\weekly assignments\assg4a_kadutwum\inv.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"inv.h"
+
+1540003918 z:\cs 250\weekly assignments\assg4a_kadutwum\inv.h
+	<string>
+

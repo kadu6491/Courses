@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1542397546 source:z:\cs 250\final project\finals1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+
+1543622424 z:\cs 250\final project\finals1\arena.h
+	<string>
+
+1543619783 source:z:\cs 250\final project\finals1\tickets.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+
+1542400418 source:z:\cs 250\final project\finals1\arena.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+
+1543431941 source:z:\cs 250\final project\finals1\bank.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+
+1543622466 source:z:\cs 250\final project\finals1\concession.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+
+1543620576 source:z:\cs 250\final project\finals1\parking.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+
+1543619525 source:z:\cs 250\final project\finals1\schedule.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	"arena.h"
+
+1543621545 source:z:\cs 250\final project\finals1\staff.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"arena.h"
+

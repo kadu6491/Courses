@@ -1,0 +1,9 @@
+8
+1:Maple:2:45.00:90.00
+2:Burning Bush:8:20.00:160.00
+2:Morning Glory:3:5.00:15.00
+2:Blue Star:12:6.00:72.00
+3:Ajuga:3:8.00:24.00
+3:Big Boys:16:2.00:32.00
+4:Lobelia:5:3.00:15.00
+4:Delphinium:5:10.00:50.00

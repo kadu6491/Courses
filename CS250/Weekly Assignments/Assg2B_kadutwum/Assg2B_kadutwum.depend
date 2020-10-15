@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1538183179 source:z:\cs 250\assg2b_kadutwum\inbound.cpp
+	"inbound.h"
+	"sale.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
+1538183156 z:\cs 250\assg2b_kadutwum\inbound.h
+	<string>
+
+1538183377 z:\cs 250\assg2b_kadutwum\sale.h
+	<string>
+
+1538183117 source:z:\cs 250\assg2b_kadutwum\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+	<fstream>
+	"inbound.h"
+	"sale.h"
+
+1538183235 source:z:\cs 250\assg2b_kadutwum\sale.cpp
+	"sale.h"
+	"inbound.h"
+	<string>
+	<fstream>
+	<iostream>
+	<iomanip>
+

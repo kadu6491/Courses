@@ -1,0 +1,9 @@
+Darin Barrett cook 1001 0
+Irving Rios cook 1245 0
+Ervin Bowen engineer 1784 0
+Stephen Tucker engineer 3642 0
+Ellis Morton attendant 1575 1
+Meredith Goodman attendant 1577 2
+Tyrone Chandler attendant 1121 3
+Carla Rodgers salesman 0014 3
+Kristine Sherman attendant 1245 4

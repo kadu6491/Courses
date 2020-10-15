@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540686507 source:z:\cs 250\weekly assignments\assg5_kadutwum\main.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<string>
+	<conio.h>
+

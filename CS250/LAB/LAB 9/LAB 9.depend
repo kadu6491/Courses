@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541540077 source:z:\cs 250\lab\lab 9\textstats.cpp
+	<iomanip>
+	<iostream>
+	<string>
+	"words.h"
+
+1541540089 z:\cs 250\lab\lab 9\words.h
+	<string>
+

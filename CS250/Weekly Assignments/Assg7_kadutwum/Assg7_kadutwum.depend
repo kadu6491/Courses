@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541900756 source:z:\cs 250\weekly assignments\assg7_kadutwum\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"pass.h"
+
+1541900251 source:z:\cs 250\weekly assignments\assg7_kadutwum\pass.cpp
+	<string>
+	"pass.h"
+
+1541900268 z:\cs 250\weekly assignments\assg7_kadutwum\pass.h
+	<string>
+

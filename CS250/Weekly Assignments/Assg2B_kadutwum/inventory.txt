@@ -1,0 +1,18 @@
+17
+Maple:Tree:20:45.00
+Holly:Tree:10:40.00
+Morning Glory:Annual:75:5.00
+Petunia:Annual:22:13.00
+Hollyhock:Perennial:37:10.00
+Digitalis:Perennial:12:10.00
+Aster:Perennial:12:10.00
+Burning Bush:Shrub:13:20.00
+Yew:Shrub:25:40.00
+Birch:Tree:15:60.00
+Lilac:Shrub:22:35.00
+Blue Star:Perennial:12:6.00
+Ajuga:Perennial:13:8.00
+Big Boys:Vegetables:400:8.00
+Lobelia:Annual:50:3.00
+Delphinium:Perennial:45:10.00
+Rhododendron:Shrub:60:40.00

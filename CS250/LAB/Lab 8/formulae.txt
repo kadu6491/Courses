@@ -1,0 +1,20 @@
+
+1) you have to calculate skew to determine if it is badly skewed or not, 
+   if skew < -1.0 || skew > 1, then it is badly skewed , else it is not badly skewed.
+
+2) skew = 3.0 * (mean - median) / std_dev; 
+3) for this you need to calculate mean, median, std_dev
+4) mean = sum / (double)nData;
+5) median 
+
+	if (nData % 2 == 1)
+    		median = data[nData / 2];
+ 	else
+    		median = (data[nData / 2] + data[nData / 2 - 1]) / 2.0;
+
+6) std_dev = sqrt((sumsquares - nData * mean*mean)/(double)(nData - 1)).
+
+7) sum += data[i];
+8) sumsquares += data[i] * data[i];
+----------------------------------------------------------------------------------------
+

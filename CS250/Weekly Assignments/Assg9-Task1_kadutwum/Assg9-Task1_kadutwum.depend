@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543365731 source:z:\cs 250\weekly assignments\assg9-task1_kadutwum\fractiontype.cpp
+	<iostream>
+	<iomanip>
+	"fractionType.h"
+
+1543362954 z:\cs 250\weekly assignments\assg9-task1_kadutwum\fractiontype.h
+	<iostream>
+
+1543364994 source:z:\cs 250\weekly assignments\assg9-task1_kadutwum\main.cpp
+	<iostream>
+	<iomanip>
+	"fractionType.h"
+

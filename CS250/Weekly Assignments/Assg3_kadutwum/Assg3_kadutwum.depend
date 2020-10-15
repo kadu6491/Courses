@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538511253 source:z:\cs 250\assg3_kadutwum\main.cpp
+	<iostream>
+	<fstream>
+	"party.h"
+
+1538511276 z:\cs 250\assg3_kadutwum\party.h
+	<iostream>
+
