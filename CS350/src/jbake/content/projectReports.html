@@ -1,0 +1,15 @@
+title=Avocado4 Project report
+type=reportPage
+status=published
+report_iframe_aspectratio=embed-responsive-16by9
+
+                <div class=reportGraphs>
+                    <div id="spotbugsGraph" class="graph">SpotBugs Report</div>
+                    <script type="text/javascript">
+                        register2("junitGraph", "tests.csv", "JUnit Tests", "Test Cases");
+                        register2("spotbugsGraph", "spotbugs.csv", "SpotBugs", "Warnings");
+                        register2("jacocoGraph", "jacoco.csv", "Test Coverage", "# Branches");
+                        register1("pmdGraph", "pmd.csv", "PMD", "Warnings");
+                     </script>
+
+                </div>
